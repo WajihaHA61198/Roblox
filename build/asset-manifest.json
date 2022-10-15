@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Roblox/static/css/main.eeb181d1.css",
+    "main.js": "/Roblox/static/js/main.946e3935.js",
+    "static/media/SEGA.woff": "/Roblox/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Roblox/index.html",
+    "main.eeb181d1.css.map": "/Roblox/static/css/main.eeb181d1.css.map",
+    "main.946e3935.js.map": "/Roblox/static/js/main.946e3935.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeb181d1.css",
+    "static/js/main.946e3935.js"
+  ]
+}
